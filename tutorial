@@ -1,0 +1,42 @@
+Tests
+tipos de test: unitarios, de integracion y probate carga y testo automatico
+para automatizar
+designar una api de control:
+	que se puede arrancar y apagar
+	las pruebas que se limpien a ellas mismas
+
+Reglas basicas para automatizar:
+	boton unico
+	si falla se avisa
+	no intervencion humana
+
+codigo que no se prueba codigo que se falla
+
+session practica 1
+clonar el proyecto desde github
+npm init
+npm test
+libreria de pruebas en node se llama testing
+librerias de pruebas de Facebook se llama jest
+
+Integracion: mejora la productividad
+Integracion es juntar todas las partes
+smoke test mira al minimo se el programa se compila
+necesita un bbdd para las pruebas
+autocontenido
+cada cambio si se baja en el servidor de pruebas y despues al servidor de produccion
+asegurar que el codigo siempre funciona igual se falla se puede arreglar y se puede ver quien ha hecho el cambio para que 
+se falle
+programas pruebar y integrar
+
+Jenkins, Travis-CI, Strider CD   (CD > CI)
+
+Practica 2
+
+
+
+
+
+
+
+
